@@ -12,4 +12,6 @@ class EmailAddressParser
     @addresses = input
   end
   
+  
+  
 end
